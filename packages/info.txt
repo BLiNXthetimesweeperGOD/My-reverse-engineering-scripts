@@ -1,1 +1,9 @@
-These scripts are for package formats. A list will be added below when I feel like adding one.
+These scripts are for package formats.
+- BIG (Tork: Prehistoric Punk)
+- data_pack (Plants vs. Zombies, Nintendo DS/DSi) (Needs the simple file library to work!)
+- HOT (Voodoo Vince Remastered, PC)
+- MIT (BLiNX: the Time Sweeper) (also has a package creation script!)
+- Petz Catz/Dogz 2+The Dog Island (Wii) (multiple extensions, but all files are in the same format)
+
+Scripts that do multiple formats:
+- Rubik's World.py (Rubik's World, Nintendo DS) (Needs the simple file library to work!)
